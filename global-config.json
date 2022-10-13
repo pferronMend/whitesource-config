@@ -1,5 +1,5 @@
 {
-  "repoConfigMode": "createOnboardingPR"
+  "repoConfigMode": "createOnboardingPR",
   "ignoredRepos": {
   "exactNames": ["pferronMend/Gradle-Gmail-API"]
 }
