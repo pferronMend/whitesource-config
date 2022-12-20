@@ -5,12 +5,12 @@
     "baseBranches": []
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
+    "vulnerableCheckRunConclusionLevel": "none",
     "displayMode": "diff",
     "useMendCheckNames": true
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW",
+    "minSeverityLevel": "NONE",
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
