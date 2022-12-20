@@ -1,3 +1,6 @@
 {
-  "repoConfigMode": "createOnboardingPR"
+  "repoConfigMode": "createOnboardingPR",
+  "issueSettings": {
+    "minSeverityLevel": "NONE"
+  }
 }
