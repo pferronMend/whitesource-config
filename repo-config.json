@@ -1,9 +1,14 @@
 {
+  "scanSettingsSAST": {
+    "enableScan": true,
+    "scanPullRequests": true,
+    "incrementalScan": false,
+    "baseBranches": []
+  },
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "baseBranches": [],
-    "enableSAST": true
+    "baseBranches": []
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
