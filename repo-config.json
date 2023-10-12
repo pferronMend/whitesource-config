@@ -6,8 +6,8 @@
     "baseBranches": []
   },
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://github.com/pferronMend/whitesource-config/blob/main/whitesource.config",
     "baseBranches": []
   },
   "checkRunSettings": {
