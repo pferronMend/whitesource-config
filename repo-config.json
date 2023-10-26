@@ -1,5 +1,4 @@
 {
-  "overrideConfigAllowList": null,
   "scanSettingsSAST": {
     "enableScan": true,
     "scanPullRequests": true,
