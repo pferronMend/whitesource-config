@@ -1,5 +1,5 @@
 {
-  "overrideConfigAllowList": [pferronMend/Case118968],
+  "overrideConfigAllowList": ["pferronMend/Case118968"],
   "scanSettingsSAST": {
     "enableScan": true,
     "scanPullRequests": true,
