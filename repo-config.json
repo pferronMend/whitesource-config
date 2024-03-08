@@ -6,11 +6,13 @@
     "baseBranches": []
   },
   "scanSettings": {
+    "enableReachability": true,
     "configMode": "EXTERNAL",
     "configExternalURL": "https://raw.githubusercontent.com/pferronMend/whitesource-settings/main/whitesource.config",
     "baseBranches": []
   },
   "checkRunSettings": {
+    "strictMode": "failure",
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true
