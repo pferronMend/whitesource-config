@@ -1,28 +1,34 @@
 {
-  "scanSettingsSAST": {
-    "enableScan": true,
-    "scanPullRequests": true,
-    "incrementalScan": false,
-    "baseBranches": []
-  },
+  "overrideConfigAllowList": [],
   "scanSettings": {
-    "configMode": "EXTERNAL",
-    "configExternalURL": "https://raw.githubusercontent.com/pferronMend/whitesource-settings/main/whitesource.config",
-    "baseBranches": []
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "baseBranches": [],
+    "enableLicenseViolations": true,
+    "enableReachability": true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
+    "strictMode": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
+    "displayLicenseViolations": true,
+    "issueType": "DEPENDENCY",
+    "customLabels": ["prevent-stale"]
+  },
+  "leastVulnerablePackageSettings": {                
+   "enabled": true
   },
   "remediateSettings": {
     "workflowRules": {
-      "enabled": true
-    }
+      "enabled": true,
+      "minVulnerabilitySeverity": "LOW"
+    },
+    "extends": [
+      "github>whitesource/merge-confidence:beta"
+    ]
   }
 }
-
