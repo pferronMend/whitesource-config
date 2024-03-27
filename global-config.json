@@ -1,4 +1,5 @@
 {
   "repoConfigMode": "createOnboardingPR",
+  "repoConfigFileName": ".mend",
   "cvssDisplayMode": "3.0"
 }
