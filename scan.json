@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "pferronMend/dvna",
+      "branchName": "master",
+	  "uploadScannerLogs": true
+    }
+  ]
+}
