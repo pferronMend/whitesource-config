@@ -1,9 +1,0 @@
-{
-  "repositories": [
-    {
-      "fullName": "pferronMend/maven-pom",
-      "branchName": "main",
-	  "uploadScannerLogs": true
-    }
-  ]
-}
