@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "pferronMend/Miniblog.Core",
+      "branchName": "master,
+      "scanType": "sast"
+    }
+  ]
+}
