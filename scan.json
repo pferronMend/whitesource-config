@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "fullName": "tcp-software/tcp-open-api",
+      "branchName": "main",
+      "scanType": "sast",
+      "scanType":"sca"
+    }
+  ]
+}
