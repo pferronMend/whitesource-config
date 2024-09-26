@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "pferronMend/Employee-Payroll-System ",
+      "branchName": "master",
+      "scanType": "sast"
+    }
+  ]
+}
