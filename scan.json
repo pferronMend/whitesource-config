@@ -1,0 +1,10 @@
+
+{
+  "repositories": [
+    {
+      "fullName": "pferronMend/case142731",
+      "branchName": "RUBY-2391-try-vulnerability-gating",
+      "scanType": "sast"
+    }
+  ]
+}
