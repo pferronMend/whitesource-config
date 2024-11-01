@@ -1,9 +1,0 @@
-{
-  "repositories": [
-    {
-      "fullName": "pferronMend/case142731",
-      "branchName": "main",
-      "scanType": "sast"
-    }
-  ]
-}
