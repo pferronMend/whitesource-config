@@ -3,7 +3,7 @@
     "enableScan": true,
     "scanPullRequests": true,
     "incrementalScan": false,
-    "baseBranches": []
+    "baseBranches": ["test"]
   },
   "scanSettings": {
     "enableReachability": true,
