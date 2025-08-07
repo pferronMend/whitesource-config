@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    {
+      "fullName": "pferronMend/SAST-vulnerability",
+	  "scanType": "sast"
+    }
+  ]
+}
