@@ -1,9 +1,0 @@
-{
-  "repositories": [
-    {
-      "fullName": "pferronMend/WebGoat-LVP",
-	    "scanType": "sast",
-      "branchName": "main"
-    }
-  ]
-} 
